@@ -68,5 +68,16 @@ By implementing a combination of Predictive Maintenance, QA, and Production Plan
 
 ## Simulation Link
 
-[[Simulation link ](https://mwesp.app.n8n.cloud/workflow/RKr0MAoAiGR3f1UA)]
+[Simulation link](https://mwesp.app.n8n.cloud/workflow/RKr0MAoAiGR3f1UA)
 
+## Workflow Demonstration
+
+The following screenshots demonstrate the AI Agent workflow implementation:
+
+![Workflow Screenshot 1](images/Screenshot%20at%202025-11-30%2016-58-54.png)
+
+![Workflow Screenshot 2](images/Screenshot%20at%202025-11-30%2016-59-55.png)
+
+![Workflow Screenshot 3](images/Screenshot%20at%202025-11-30%2017-00-09.png)
+
+![Workflow Screenshot 4](images/Screenshot%20at%202025-11-30%2017-00-59.png)
